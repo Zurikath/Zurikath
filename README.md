@@ -1,3 +1,9 @@
+main.js
+
+
+
+
+
 - 👋 Hi, I’m @Zurikath
 - 👀 I’m interested in reading and writing  
 - 🌱 I’m currently learning how to program 
